@@ -1,0 +1,1 @@
+The code is associated with Basic Protocol 3 (“Alignment of Raw Sequencing Data to Indexed Genome and Generation of Count Matrices”) from Single-Cell RNA Sequencing Analysis of the Drosophila Larval Ventral Cord (Tho Huu Nguyen et al., 2021).
